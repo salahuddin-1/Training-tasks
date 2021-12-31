@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137828850654",
+    "project_id": "fcm-tutorial-db7ac",
+    "storage_bucket": "fcm-tutorial-db7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137828850654:android:3ef565a122675f65d1db4f",
+        "android_client_info": {
+          "package_name": "com.example.neosoft_training_tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137828850654-3cf4mhvib38prmqmhvmrb3tor6cjttk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neosoft_training_tasks",
+            "certificate_hash": "8ee2107ef4d8a750953b739cd36801fb7c25ae70"
+          }
+        },
+        {
+          "client_id": "137828850654-svahf3er83d4dotlc1tn0fmhsl82ndkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-OeeGxDLQow6HwMbxwTXOgApvDjutAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137828850654-svahf3er83d4dotlc1tn0fmhsl82ndkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
